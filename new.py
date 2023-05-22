@@ -1,2 +1,1 @@
-print("COMP6721")
-newsda
+print("COMP671")
